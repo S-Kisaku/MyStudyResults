@@ -1,0 +1,2 @@
+run:
+	env HUBOT_SLACK_TOKEN=xoxb-1944103950386-1944374288723-akK4ecpd5vrrFY6uZ9V0Q9rG bin/hubot -a slack; 
